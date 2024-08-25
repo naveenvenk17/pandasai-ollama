@@ -1,9 +1,9 @@
 # pandasai-ollama
 csv chatbot using streamlit , pandasai and ollama
 
-Proof of concept for pandas data transformation using NL /n
-Project uses llama3 from ollama /n
-/n
+Proof of concept for pandas data transformation using NL \
+Project uses llama3 from ollama \
+\
 Takes atleast 10 min to generate response for a simple query in a 16GB ram (no gpu) environment
 
 # Screenshots
