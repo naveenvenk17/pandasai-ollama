@@ -1,0 +1,5 @@
+pandasai
+pandas
+streamlit
+pycocotools
+numpy==1.26.4
